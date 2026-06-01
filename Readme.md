@@ -2,11 +2,13 @@
 
 A Solar System Animation project created using *HTML5* and *CSS3*. This project was developed to practice CSS animations, transforms, positioning, and responsive web design concepts.
 
-## 🚀 Project Overview
+Live demo:https://sanskruti-devkar.github.io/solar-system/
+
+##  Project Overview
 
 This project visually represents the solar system, where planets revolve around the Sun using CSS animation techniques. The animation is achieved entirely through CSS without using JavaScript.
 
-## ✨ Features
+##  Features
 
 - Pure HTML and CSS implementation
 - CSS keyframe animations
@@ -16,7 +18,7 @@ This project visually represents the solar system, where planets revolve around 
 - Information panels for solar system details
 - Responsive layout
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -24,7 +26,7 @@ This project visually represents the solar system, where planets revolve around 
 - CSS Transforms
 - Flexbox
 
-## 📸 Preview
+##  Preview
 
 The project displays:
 - The Sun at the center
